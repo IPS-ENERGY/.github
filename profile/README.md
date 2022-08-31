@@ -1,12 +1,14 @@
-## Hi there 👋
+## Welcome to IPS code repository 👋
 
-<!--
+The IPS Group is an international company with headquarters in Pullach (Munich), Germany. We are a continuously growing company with the goal to offer our Customers the best possible products and services within the market.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Solutions
+* Enterprise Asset Management
+* Asset Performance Management with Advanced Analytics
+* Protective Relays and IED Management
+* Workforce Management
+* CIM-based Network Model Management
+* Special Applications for Electrical Power Systems
+* Outage Management System
+* Asset Investment Planning
+* Advanced Scheduling Module
