@@ -1,0 +1,11 @@
+name: Backup Git Repository
+
+on:
+  workflow_dispatch:
+
+jobs:
+  git-repo-checkout:
+    runs-on: self-hosted
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
