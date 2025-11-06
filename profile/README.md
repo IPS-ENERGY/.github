@@ -33,7 +33,6 @@ Our public GitHub presence includes organizational resources and documentation:
 We appreciate the contributions from our team members who help maintain our public repositories:
 
 1. **Srđan Grbić** - 1 commit
-2. **copilot-swe-agent[bot]** - 1 commit
 
 *Our internal development teams consist of many talented engineers working on our enterprise solutions in private repositories.*
 
@@ -69,7 +68,3 @@ IPS-ENERGY specializes in developing enterprise software solutions for the energ
 For more information about our products and services, please visit:
 - 🌐 [IPS Group Website](https://www.ips-ag.com)
 - 📧 Contact us for enterprise solutions and partnerships
-
----
-
-*Last updated: November 2025*
